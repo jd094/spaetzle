@@ -63,7 +63,7 @@ sex (Geschlecht)
 2 = männlich
 3 = divers
 
-birthyear (Geburtsjahr)
+birth (Geburtsjahr)
 Als ganze Zahl angeben
 
 "position (jetzige Position, z.B. StaatssekretÃ¤r:in, Minister)"
