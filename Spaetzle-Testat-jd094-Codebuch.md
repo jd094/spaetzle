@@ -8,7 +8,8 @@ Baden-Württemberg kommen und Teil der Regierung sind, dazu gehören auch
 Staatsminister:innen. Die Zuordnung Baden-Württemberg ist über den
 letzten Wahlkreis oder eine entsprechende Landesliste definiert. 
 
-#EDGE-Attribute
+# Edge-Attribute
+
 id
 identisch mit nodelist, aber hier nur einmalige Nennung
 
@@ -46,7 +47,7 @@ etc.
 
 year (Bezieht sich auf das Jahr, in dem die Variable relationship erhoben wurde)
 
-# NODE-Attribute
+# Node-Attribute
 
 id (identisch mit edgelist, aber hier nur einmalige Nennung)
 
